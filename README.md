@@ -1,2 +1,2 @@
-# Univerlcity_project
-# univerlcity_project\n For Git Tut
+# Univelcity_project
+# univelcity_project\n For Git Tut
